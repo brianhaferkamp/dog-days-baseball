@@ -13,3 +13,5 @@ There are two different options for each team. You can download all player cards
 - [1962 Giants B&W](https://github.com/brianhaferkamp/dog-days-baseball/raw/main/1962%20Giants/Dog-Days-Baseball_1962-Giants_B%26W.pdf) || [1962 Giants Color](https://github.com/brianhaferkamp/dog-days-baseball/raw/main/1962%20Giants/Dog-Days-Baseball_1962-Giants_Color.pdf)
 
 Not familiar with Dog Days Baseball? [Watch an introduction and a couple of demo games on YouTube.](https://www.youtube.com/playlist?list=PLvQQ08OtlzFtJxCb-DjOOSkRwL_YKdqAw)
+
+The purpose of this demo is to get feedback on the game play and any errors that needs to be corrected on the game pieces. That being said, I hope that you have fun, too :-) This is a new game still in development and your feedback is invaluable. Please email me at onbasebaseball@gmail.com with any feedback that you have. You can also find me on the usual forums under the handle "OnBase."
