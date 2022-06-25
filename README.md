@@ -11,4 +11,4 @@ There are two different options for each team. You can download all player cards
 - [1968 Cardinals B&W](https://github.com/brianhaferkamp/dog-days-baseball/raw/main/1968%20Cardinals/Dog-Days-Baseball_1968-Cardinals_B%26W.pdf) || [1968 Cardinals Color](https://github.com/brianhaferkamp/dog-days-baseball/raw/main/1968%20Cardinals/Dog-Days-Baseball_1968-Cardinals_Color.pdf)
 - [1962 Giants B&W](https://github.com/brianhaferkamp/dog-days-baseball/raw/main/1962%20Giants/Dog-Days-Baseball_1962-Giants_B%26W.pdf) || [1962 Giants Color](https://github.com/brianhaferkamp/dog-days-baseball/raw/main/1962%20Giants/Dog-Days-Baseball_1962-Giants_Color.pdf)
 
-
+Not familiar with Dog Days Baseball? [Watch an introduction and a couple of demo games on YouTube.](https://www.youtube.com/playlist?list=PLvQQ08OtlzFtJxCb-DjOOSkRwL_YKdqAw)
