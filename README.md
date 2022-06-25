@@ -1,6 +1,6 @@
 # Dog Days Baseball
 
-This is the official demo for Dog Days Baseball, a new tabletop baseball game. All of the pieces you need to play the game are below. Simply download the Guide, Charts, and teams that you want to use. 
+This is the official demo for Dog Days Baseball, a new tabletop baseball game. All of the pieces you need to play the game are below. Simply download the Guide, Charts, and Action Cards. Then choose the teams that you want to use. You will only need 2 d10 dice to play the game (along with the game components you downloaded).
 
 There are two different options for each team. You can download all player cards in black and white or in color. 
 
