@@ -2,6 +2,8 @@
 
 This is the official demo for Dog Days Baseball, a new tabletop baseball game. All of the pieces you need to play the game are below. Simply download the Guide, Charts, and Action Cards. Then choose the teams that you want to use. You will only need 2 d10 dice to play the game (along with the game components you downloaded).
 
+*This is an early stage demo. It is likely that major parts will be changed or added. It might be wise not to print these components on card stock as they are likely to change frequently.*
+
 There are two different options for each team. You can download all player cards in black and white or in color. 
 
 - [Download Action Cards](https://github.com/brianhaferkamp/dog-days-baseball/raw/main/Dog-Days-Baseball_Action-Cards.pdf)
